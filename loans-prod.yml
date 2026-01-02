@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Microservice bank loans related to Prod APIs "
+  message: "Welcome to Microservice bank loans related to production APIs "
   contactDetails:
     name: "Jhan Loans Doe - Prod Developer"
     email: "{cipher}492d00273f5910d5c4deb9200554e9a123b252fbf849d34fd9c78be5e7a33f162fce51dc662f3c3f3ac9df87a94799a3"
