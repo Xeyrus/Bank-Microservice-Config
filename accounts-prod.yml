@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Microservice bank accounts related to Prod APIs "
+  message: "Welcome to Microservice bank accounts related to production APIs "
   contactDetails:
     name: "Jhan Doe - Developer"
     email: "{cipher}9a4c663de4dc106752822c832dc865298bd69672fb9b777e1f7f2cf660cdd9dc"
