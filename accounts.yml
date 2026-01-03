@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Microservice bank accounts related to docker APIs "
+  message: "Welcome to Microservice bank accounts related to local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}01f7f35a1fea02a5934b9dcf9f6a59ab80e47ef149ae230fcd6a1a0ef4756c07"
